@@ -1,10 +1,10 @@
 ---
 title: "ECE5415"
 collection: teaching
-type: "Teaching Assistant"
-permalink: /teaching/2015-spring-teaching-1
+type: "Graduate course"
+permalink: /teaching/spring-teaching-1
 venue: "Cornell Tech"
-date: 2015-01-01
+date: 2021
 location: "New York, NY"
 ---
 
