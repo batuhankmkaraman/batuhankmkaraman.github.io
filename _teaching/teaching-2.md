@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/fall-teaching-1
 venue: "Cornell Tech"
-date: 2021
+date: 2021-01-01
 location: "New York, NY"
 ---
 
