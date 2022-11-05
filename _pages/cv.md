@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cvs/
+permalink: /cv/
 author_profile: true
 ---
 
