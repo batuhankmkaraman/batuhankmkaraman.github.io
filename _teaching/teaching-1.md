@@ -7,3 +7,5 @@ venue: "Cornell University"
 date: 2021
 location: "Ithaca, NY"
 ---
+
+Mentored students for a term project, held discussion sessions and office hours.
