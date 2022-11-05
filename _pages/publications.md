@@ -9,7 +9,7 @@ For more details, see my Google Scholar profile.
   For more details, see my <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-- __Karaman B__, Mormino E, Sabuncu, M    
+- __Batuhan K. Karaman__, Elizabeth C. Mormino, Mert R. Sabuncu    
 **Machine learning based multi-modal prediction of future
 decline toward Alzheimer’s disease: An empirical study**  
 PLOS ONE, 2022.    
