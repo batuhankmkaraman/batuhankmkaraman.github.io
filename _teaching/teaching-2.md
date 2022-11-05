@@ -7,3 +7,5 @@ venue: "Cornell Tech"
 date: 2021
 location: "New York, NY"
 ---
+
+Held office hours and discussion sessions.
