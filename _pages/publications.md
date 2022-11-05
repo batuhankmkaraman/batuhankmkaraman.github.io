@@ -9,8 +9,8 @@ For more details, see my Google Scholar profile.
   For more details, see my <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- __Karaman B__, Mormino E, Sabuncu, M    
+**Machine learning based multi-modal prediction of future
+decline toward Alzheimer’s disease: An empirical study**  
+PLOS ONE, 2022.    
+[\[Paper\]]() / [\[Code\]]((https://github.com/batuhankmkaraman/mlbasedad))
