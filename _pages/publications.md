@@ -13,4 +13,4 @@ For more details, see my Google Scholar profile.
 **Machine learning based multi-modal prediction of future
 decline toward Alzheimer’s disease: An empirical study**  
 PLOS ONE, 2022.    
-[\[Paper\]]() / [\[Code\]]((https://github.com/batuhankmkaraman/mlbasedad))
+[Paper]() / [Code](https://github.com/batuhankmkaraman/mlbasedad)
