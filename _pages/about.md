@@ -11,4 +11,4 @@ I'm a PhD student at Cornell University, where I'm fortunate to be advised by [M
 
 My research interests are in machine learning and biomedical data analysis. Focusing on Alzheimer's, my current research builds deep learning methods for early prediction of future decline and analysis of biomarkers.
 
-For more details, refer to my CV.
+For more details, refer to my [CV](https://batuhankmkaraman.github.io/files/batuhan_cv.pdf).
