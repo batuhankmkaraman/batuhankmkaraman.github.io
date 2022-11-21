@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-For more details, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5cxB7e_19qkn10TwkbOqJyLT5jCfkhPLL1krRsv1ZgDnvXSPIFQWMpaTYQdDV6yTItXtLiFw5YwjLMZdhf7BYvjmDV1g&user=Rru1g4kAAAAJ). 
+For more details, see [my Google Scholar profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5cxB7e_19qkn10TwkbOqJyLT5jCfkhPLL1krRsv1ZgDnvXSPIFQWMpaTYQdDV6yTItXtLiFw5YwjLMZdhf7BYvjmDV1g&user=Rru1g4kAAAAJ). 
 
 - __Batuhan K. Karaman__, Elizabeth C. Mormino, Mert R. Sabuncu, for the Alzheimer’s Disease Neuroimaging Initiative,    
 **Machine learning based multi-modal prediction of future
