@@ -13,4 +13,4 @@ My PhD research develops deep learning methods for predicting clinical outcomes 
 Additionally, during an internship at \textbf{Microsoft} in the summer 2024, I worked on LLM safety, focusing on supervised fine-tuning and alignment methods.
 
 
-For more details, refer to my [resume](https://batuhankmkaraman.github.io/files/resume_batuhan.pdf).
+For more details, please refer to my [resume](https://batuhankmkaraman.github.io/files/resume_batuhan.pdf).
