@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I'm a PhD student at **Cornell University**, where I'm fortunate to be advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/people/).  My PhD research focuses on developing deep learning methods for predicting clinical outcomes and analyzing longitudinal biomarkers in neurodegenerative and neoplastic diseases. 
+I'm a PhD student at **Cornell University**, where I'm fortunate to be advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/people/).  My PhD research focuses on developing computer vision and time-series methods for predicting clinical outcomes from multimodal biomedical data.
 
 During a Summer 2025 internship at **Amazon AGI**, I developed a novel REINFORCE-based RLVR algorithm for **reasoning LLMs** that achieves state-of-the-art performance across multiple benchmarks.
 
