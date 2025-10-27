@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I'm a PhD student at **Cornell University**, where I'm fortunate to be advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/people/).  
+I am a PhD student at **Cornell University**, where I am fortunate to be advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/people/).  
 
 During a Summer 2025 internship at **Amazon AGI**, I developed a novel REINFORCE-based RLVR algorithm for **reasoning LLMs** that achieves state-of-the-art performance across multiple benchmarks.
 
