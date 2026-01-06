@@ -15,4 +15,4 @@ During a Summer 2024 internship at **Microsoft AI**, I worked on **responsible A
 
 My PhD research focuses on developing computer vision and time-series methods for predicting clinical outcomes from multimodal biomedical data. 
 
-For more details, please refer to [my resume](https://batuhankmkaraman.github.io/files/resume_batuhan_git.pdf).
+For more details, please refer to [my resume](https://batuhankmkaraman.github.io/files/resume_batuhan.pdf).
