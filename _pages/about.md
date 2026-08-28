@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-I am an Applied Scientist at **AWS Health AI**, where I work on **responsible AI** for multiple healthcare agents.
+I am an Applied Scientist at **AWS Health AI**, where I work o **responsible AI** for multiple healthcare agents.
 
 I recently completed my PhD at **Cornell University**, where I was advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/people/). My doctoral research focused on developing time-series and computer vision methods for predicting clinical outcomes from longitudinal multimodal biomedical data.
 
