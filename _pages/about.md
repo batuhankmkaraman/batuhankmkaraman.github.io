@@ -9,7 +9,7 @@ feature_row:
   - image_path: pub-lomar.png
     alt: "LoMaR model diagram"
     title: "LoMaR: Longitudinal Mammogram Risk Prediction"
-    excerpt: "*MICCAI 2024*<br/>Extends a state-of-the-art breast cancer risk model to ingest an arbitrary number of longitudinal mammograms. Longer histories of prior annual mammograms significantly boost the accuracy of predicting future breast cancer risk."
+    excerpt: "*MICCAI 2024*<br/>A breast cancer risk prediction model that ingests an arbitrary number of longitudinal mammograms. Incorporating longer histories of prior annual mammograms significantly boosts the accuracy of predicting future breast cancer risk."
     url: "https://github.com/batuhankmkaraman/LoMaR"
     btn_label: "Code"
 feature_row2:
