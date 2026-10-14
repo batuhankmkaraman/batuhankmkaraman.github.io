@@ -14,7 +14,7 @@ feature_row:
     btn_label: "Paper"
 feature_row2:
   - image_path: pub-dispo.png
-    alt: "DISPO's four policy update regimes"
+    alt: "Learning curves of RLVR algorithms"
     title: "DISPO: Decoupled Importance Sampling-weighted Policy Optimization"
     excerpt: "*AISTATS 2026*<br/>A REINFORCE-style RL algorithm for LLM mathematical reasoning that clips importance-sampling weights with separate, independently tunable bounds across four policy-update regimes, matching PPO-style stability while training as efficiently as REINFORCE."
     url: "https://proceedings.mlr.press/v300/karaman26a.html"
