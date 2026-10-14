@@ -10,15 +10,15 @@ feature_row:
     alt: "LoMaR model diagram"
     title: "LoMaR: Longitudinal Mammogram Risk Prediction"
     excerpt: "*MICCAI 2024*<br/>A breast cancer risk prediction model that ingests an arbitrary number of longitudinal mammograms. Incorporating longer histories of prior annual mammograms significantly boosts the accuracy of predicting future breast cancer risk."
-    url: "https://github.com/batuhankmkaraman/LoMaR"
-    btn_label: "Code"
+    url: "https://doi.org/10.1007/978-3-031-72086-4_41"
+    btn_label: "Paper"
 feature_row2:
   - image_path: pub-dispo.png
     alt: "DISPO's four policy update regimes"
     title: "DISPO: Decoupled Importance Sampling-weighted Policy Optimization"
     excerpt: "*AISTATS 2026*<br/>A REINFORCE-style RL algorithm for LLM mathematical reasoning that clips importance-sampling weights with separate, independently tunable bounds across four policy-update regimes, matching PPO-style stability while training as efficiently as REINFORCE."
-    url: "https://github.com/batuhankmkaraman/dispo"
-    btn_label: "Code"
+    url: "https://proceedings.mlr.press/v300/karaman26a.html"
+    btn_label: "Paper"
 feature_row3:
   - image_path: pub-lsmad.png
     alt: "LSM-AD architecture diagram"
@@ -31,8 +31,8 @@ feature_row4:
     alt: "Examples of safety and overrefusal in LLM responses"
     title: "POROver: Improving Safety and Reducing Overrefusal with Overgeneration and Preference Optimization"
     excerpt: "*ICML 2025*<br/>Shows that overgenerating instruction-finetuning data with stronger teacher models improves the safety/usefulness trade-off, and introduces POROver, a DPO-based alignment strategy that reduces LLM overrefusal while preserving safety."
-    url: "https://github.com/batuhankmkaraman/POROver"
-    btn_label: "Code"
+    url: "https://proceedings.mlr.press/v267/karaman25a.html"
+    btn_label: "Paper"
 ---
 
 ## About me
