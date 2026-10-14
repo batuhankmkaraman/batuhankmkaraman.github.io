@@ -45,7 +45,7 @@ During a Summer 2025 internship at **Amazon AGI**, I developed a novel REINFORCE
 
 During a Summer 2024 internship at **Microsoft AI**, I worked on **responsible AI** research, developing supervised fine-tuning and alignment methods to improve LLM safety and usefulness.
 
-For more details, please refer to [my resume](https://batuhankmkaraman.github.io/files/resume_batuhan.pdf).
+For more details and a full list of my publications, please refer to [my resume](https://batuhankmkaraman.github.io/files/resume_batuhan.pdf).
 
 Below you can find my highlighted publications.
 
