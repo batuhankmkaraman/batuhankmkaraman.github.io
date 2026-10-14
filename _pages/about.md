@@ -39,7 +39,7 @@ feature_row4:
 
 I am an Applied Scientist at **AWS Health AI**, where I work on **responsible AI** for multiple healthcare agents.
 
-I recently completed my PhD at **Cornell University**, where I was advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/people/). My doctoral research focused on developing time-series and computer vision methods for predicting clinical outcomes from longitudinal multimodal biomedical data.
+I recently completed my PhD at **Cornell University**, where I was advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/people/). My doctoral research focused on developing time-series and computer vision methods for predicting clinical outcomes from **longitudinal multimodal biomedical data**.
 
 During a Summer 2025 internship at **Amazon AGI**, I developed a novel REINFORCE-based RLVR algorithm for **reasoning LLMs** that achieves state-of-the-art performance across multiple benchmarks.
 
