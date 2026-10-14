@@ -65,10 +65,24 @@ Below you can find my highlighted publications.
   gap: 2em;
   margin-bottom: 2em;
 }
+.pub-card {
+  display: flex;
+  flex-direction: column;
+}
+.pub-card-image {
+  aspect-ratio: 3 / 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
 .pub-card-image img {
   width: 100%;
-  display: block;
-  border-radius: 4px;
+  height: 100%;
+  object-fit: contain;
 }
 .pub-card-body .archive__item-title {
   margin-top: 0.75em;
