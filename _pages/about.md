@@ -28,7 +28,7 @@ feature_row3:
     btn_label: "Paper"
 feature_row4:
   - image_path: pub-porover.png
-    alt: "Examples of safety and overrefusal in LLM responses"
+    alt: "Not-unsafe and overrefusal rates before and after POROver"
     title: "POROver: Improving Safety and Reducing Overrefusal with Overgeneration and Preference Optimization"
     excerpt: "*ICML 2025*<br/>Shows that overgenerating instruction-finetuning data with stronger teacher models improves the safety/usefulness trade-off, and introduces POROver, a DPO-based alignment strategy that reduces LLM overrefusal while preserving safety."
     url: "https://proceedings.mlr.press/v267/karaman25a.html"
