@@ -23,12 +23,12 @@ feature_row3:
   - image_path: pub-lsmad.png
     alt: "LSM-AD architecture diagram"
     title: "A Deep Survival Model for Predicting Alzheimer's Diagnosis Based on Multi-Modal Longitudinal Data"
-    excerpt: "*Big Data Mining and Analytics, 2026*<br/>A Transformer-based survival model (LSM-AD) that integrates cognitive assessments and MRI biomarkers across a patient's visit history to predict future Alzheimer's diagnosis, improving AUROC by up to 15% over prior state-of-the-art.<br/>[Code](https://github.com/batuhankmkaraman/LSM-AD)"
+    excerpt: "*Big Data Mining and Analytics, 2026*<br/>A Transformer-based survival model (LSM-AD) that integrates cognitive assessments and MRI biomarkers across a patient's visit history to predict future Alzheimer's diagnosis, improving AUROC by up to 15% over prior state-of-the-art."
     url: "https://ieeexplore.ieee.org/document/11373479/"
     btn_label: "Paper"
 feature_row4:
   - image_path: pub-porover.png
-    alt: "POROver preference data generation pipeline"
+    alt: "Examples of safety and overrefusal in LLM responses"
     title: "POROver: Improving Safety and Reducing Overrefusal with Overgeneration and Preference Optimization"
     excerpt: "*ICML 2025*<br/>Shows that overgenerating instruction-finetuning data with stronger teacher models improves the safety/usefulness trade-off, and introduces POROver, a DPO-based alignment strategy that reduces LLM overrefusal while preserving safety."
     url: "https://github.com/batuhankmkaraman/POROver"
@@ -46,6 +46,8 @@ During a Summer 2025 internship at **Amazon AGI**, I developed a novel REINFORCE
 During a Summer 2024 internship at **Microsoft AI**, I worked on **responsible AI** research, developing supervised fine-tuning and alignment methods to improve LLM safety and usefulness.
 
 For more details, please refer to [my resume](https://batuhankmkaraman.github.io/files/resume_batuhan.pdf).
+
+Below you can find my highlighted publications.
 
 ## Highlighted Publications
 
