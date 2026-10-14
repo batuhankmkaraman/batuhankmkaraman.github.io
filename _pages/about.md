@@ -23,7 +23,7 @@ feature_row3:
   - image_path: pub-lsmad.png
     alt: "LSM-AD architecture diagram"
     title: "A Deep Survival Model for Predicting Alzheimer's Diagnosis Based on Multi-Modal Longitudinal Data"
-    excerpt: "*Big Data Mining and Analytics, 2026*<br/>A Transformer-based survival model (LSM-AD) that integrates cognitive assessments and MRI biomarkers across a patient's visit history to predict future Alzheimer's diagnosis, improving AUROC by up to 15% over prior state-of-the-art."
+    excerpt: "*IEEE Big Data Mining and Analytics, 2026*<br/>A Transformer-based survival model (LSM-AD) that integrates cognitive assessments and MRI biomarkers across a patient's visit history to predict future Alzheimer's diagnosis, improving AUROC by up to 15% over prior state-of-the-art."
     url: "https://ieeexplore.ieee.org/document/11373479/"
     btn_label: "Paper"
 feature_row4:
